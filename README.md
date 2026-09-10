@@ -15,9 +15,3 @@ A simple Weather App built using Python and Tkinter. It fetches real-time weathe
 - Tkinter
 - Requests
 - Open-Meteo API
-
-## Run
-```bash
-pip install requests
-python weather_app.py
-```
